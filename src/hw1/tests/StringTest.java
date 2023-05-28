@@ -62,7 +62,7 @@ class StringTest {
 		assertEquals(4, str.indexOf('o'));
 		assertEquals(6, str.indexOf('J'));
 		assertEquals(8, str.indexOf('v'));
-	}
+	} 
 	@Test
 	void lastIndexOfTest() {
 		String str = "Hello Java";
